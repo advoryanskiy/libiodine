@@ -1,1 +1,1 @@
-# [iodine](http://code.kryo.se/iodine/) built as static library
+# [iodine](http://code.kryo.se/iodine/) as static library
